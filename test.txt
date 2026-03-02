@@ -1,3 +1,4 @@
 Line 1
 Line 2 modified by branch1 - part3
 Line 3
+# New from clone2: 1
